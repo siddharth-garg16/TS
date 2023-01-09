@@ -8,3 +8,9 @@ function sum(a:number, b:number):number{
 }
 
 console.log(sum(3, 4))
+console.log(sum(3, true))
+
+//typescript compiler ts-node ---do---
+
+
+
