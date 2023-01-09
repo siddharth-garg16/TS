@@ -6,3 +6,5 @@ function sum(a, b) {
     return a + b;
 }
 console.log(sum(3, 4));
+// console.log(sum(3, true))
+//typescript compiler ts-node ---do--- tsc filename.ts ----do---
