@@ -22,3 +22,6 @@ interface Vegetable {
 interface Potato extends Vegetable {
     texture: string
 }//powerful - new interface form previous interface
+
+//we can use ?: to make it optional to exist or not (optional attribute)
+// we can add ! at the end of an expression to say that the value definitely exists (non null assertion)
