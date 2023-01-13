@@ -15,3 +15,5 @@ class Coordinate {
 const point = new Coordinate(4, 7);
 
 console.log(point.getX());
+
+//there are read only and static properties too
